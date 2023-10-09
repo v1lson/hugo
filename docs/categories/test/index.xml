@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Andrii Pisa Stavenko</title>
-    <link>https://example.org/categories/test/index.html</link>
+    <link>https://v1lson.github.io/hugo/categories/test/index.html</link>
     <description>Recent content in Test on Andrii Pisa Stavenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2023 08:49:10 +0200</lastBuildDate><atom:link href="https://example.org/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 08:49:10 +0200</lastBuildDate><atom:link href="https://v1lson.github.io/hugo/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shortcode</title>
-      <link>https://example.org/shortcode/index.html</link>
+      <link>https://v1lson.github.io/hugo/shortcode/index.html</link>
       <pubDate>Tue, 26 Sep 2023 08:49:10 +0200</pubDate>
-      <guid>https://example.org/shortcode/index.html</guid>
+      <guid>https://v1lson.github.io/hugo/shortcode/index.html</guid>
       <description>Highlight &amp;#8203; python python 1print(&amp;#34;Hello World!&amp;#34;) Botton Get Hugo Get Hugo Get Hugo Get Hugo Get Hugo Attachments Información doc.txt (21 B) Badge Important Version7.1 Bombo clack InformaciónNew Awesome
 Expand Expand me&amp;hellip; Hola Iconos Notice Pay Attention to this Note! Some serious information.
 Orange A orange disclaimer

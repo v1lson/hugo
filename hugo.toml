@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://v1lson.github.io/hugo/'
 languageCode = 'en-us'
 title = 'Andrii Pisa Stavenko'
 theme = 'hugo-theme-relearn'
