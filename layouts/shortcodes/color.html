@@ -1,0 +1,2 @@
+{{ $color := .Get "color" | default "green"}}
+<p style="color: :{{ $color }}"> {{.Inner}} </p>

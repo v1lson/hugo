@@ -1,0 +1,54 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Andrii Pisa Stavenko'
+theme = 'hugo-theme-relearn'
+defaultContentLanguage="es"
+
+[markup]
+  [markup.highlight]
+    # line numbers in a table layout will shift if code is wrapping, so better
+    # use inline; besides that visually both layouts have the same look and behavior
+    lineNumbersInTable = false
+
+    # if `guessSyntax = true`, there will be no unstyled code even if no language
+    # was given BUT Mermaid and Math codefences will not work anymore! So this is a
+    # mandatory setting for your site if you want to use Mermaid or Math codefences
+    guessSyntax = false
+
+    # the shipped variants come with their own modified chroma syntax highlightning
+    # style which is imported in theme-relearn-light.css, theme-relearn-dark.css, etc.;
+    # if you want to use a predefined style instead:
+    # - remove `noClasses` or set `noClasses = true`
+    # - set `style` to a predefined style name
+    noClasses = false
+    # style = "tango"
+
+  [params]
+  themeVariant = [ "neon", "relearn-dark" ]
+
+  [[menu.shortcuts]]
+  name = "<i class='fab fa-fw fa-linkedin'></i> Linkedin"
+  identifier = "ds"
+  url = "https://www.linkedin.com/in/andrii-pisa-stavenko-2956a8237/"
+  weight = 10
+
+  [[menu.shortcuts]]
+  name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+  url = "showcase/"
+  weight = 11
+
+  [[menu.shortcuts]]
+  name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+  identifier = "hugodoc"
+  url = "https://gohugo.io/"
+  weight = 20
+
+  [[menu.shortcuts]]
+  name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+  url = "more/credits/"
+  weight = 30
+
+  [[menu.shortcuts]]
+  name = "<i class='fas fa-fw fa-tags'></i> Tags"
+  url = "tags/"
+  weight = 40
