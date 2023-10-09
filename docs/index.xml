@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Andrii Pisa Stavenko</title>
+    <link>https://example.org/index.html</link>
+    <description>Recent content in Personal on Andrii Pisa Stavenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2023 08:46:17 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plantilla</title>
+      <link>https://example.org/apuntes/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 10:48:58 +0200</pubDate>
+      <guid>https://example.org/apuntes/index.html</guid>
+      <description>Titulo de plantilla Subtitulo de plantilla # Titulo de plantilla ## Subtitulo de plantillaTexto Aqui probamos el texto **en negrita**, aqui en *cursiva* y aqui ~~tachado~~ **_~~Combo~~_**Aqui probamos el texto en negrita, aqui en cursiva y aqui tachado
+Combo
+Lista 1. Lista numerada &amp;gt; * Sublista Lista numerada Sublista Link [Ejemplo de link](http://google.com)Ejemplo de link
+Imagen Imagen metida directamente: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &amp;#34;Titulo del logo&amp;#34;) Referencia de imagen: ![alt text][logo] [logo]: https://github.</description>
+    </item>
+    <item>
+      <title>Shortcode</title>
+      <link>https://example.org/shortcode/index.html</link>
+      <pubDate>Tue, 26 Sep 2023 08:49:10 +0200</pubDate>
+      <guid>https://example.org/shortcode/index.html</guid>
+      <description>Highlight &amp;#8203; python python 1print(&amp;#34;Hello World!&amp;#34;) Botton Get Hugo Get Hugo Get Hugo Get Hugo Get Hugo Attachments Información doc.txt (21 B) Badge Important Version7.1 Bombo clack InformaciónNew Awesome
+Expand Expand me&amp;hellip; Hola Iconos Notice Pay Attention to this Note! Some serious information.
+Orange A orange disclaimer
+Site Param editURL value: https://fontawesome.com/docs/web/
+Tablas &amp;#8203; js js XML stuff XML stuff text text hola &amp;lt;Hello&amp;gt;World&amp;lt;/Hello&amp;gt; Hello World hola </description>
+    </item>
+  </channel>
+</rss>
